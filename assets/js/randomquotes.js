@@ -1,0 +1,10 @@
+var r_text = new Array ();
+r_text[0] = ("'" + "To an optimist, the glass is half full. To a pessimist, the glass is half empty. To a good tester, the glass is twice as big as it needs to be." + "'" + "<br />").italics() + "- Anonymous";
+r_text[1] = ("'" + "Quality is not an act, it is a habit." + "'" + "<br />").italics() + "- Aristotle";
+r_text[2] = ("'" + "Quality means doing it right" + "<br />" + " even when no one is looking." + "'" + "<br />").italics() + "- Henry Ford";
+r_text[3] = ("'" + "More than the act of testing, the act of designing tests is one of the best bug preventers known." + "'" + "<br />").italics() + "- Boris Beizer.";
+r_text[4] = ("'" + "Irreproducible bugs become highly reproducible right after delivery to the customer." + "'" + "<br />").italics() + "- Michael Stahl’s derivative of Murphy’s Law.";
+r_text[5] = ("'" + "The only certainties in life are " + "<br />" + "Death, Taxes and Bugs in code." + "'" + "<br />").italics() + "- Anonymous.";
+r_text[6] = ("'" + "All that Code is guilty, until proven innocent." + "'" + "<br />").italics() + "- Anonymous.";
+var i = Math.floor(r_text.length * Math.random());
+document.getElementById("quote").innerHTML = r_text[i];
