@@ -19,7 +19,7 @@
 </item>
 <item>
 <description>4 Ek Pita Ekas Ke Hum Barak</description>
-<media:thumbnail url="Guru%20Nanak.jpg"/>
+<media:thumbnail url="Guru%20Nanak.jpg"/> 
 <media:content url="http://dl.dropbox.com/u/30392351/Kirtans/4%20Ek%20Pita%20Ekas%20Ke%20Hum%20Barak.mp3"/>
 </item>
 <item>
