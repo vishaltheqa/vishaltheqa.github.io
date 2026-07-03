@@ -8,7 +8,7 @@ Makes heavy use of CSS animation (something I've been messing with a lot lately)
 Should work well as a landing page that just directs folks to your stuff elsewhere
 on the www. Sass sources are also included, so if you've never used Sass and you're
 interested in giving it a try, head on over to sass-lang.com (and if not, you can
-safely delete the "sass/" folder).
+safely delete the "sass/" folder). 
 
 The scrolling mountainous background was derived from "Icefields" by Ryan Schroeder,
 a talented photographer from Vancouver who graciously released it on Unsplash under
